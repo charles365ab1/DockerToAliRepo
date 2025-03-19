@@ -19,5 +19,5 @@ toru2220/scrapy
 oilrmutp57/mysql5.7:1.1
 gautambaghel/flask
 williamyeh/java8
-dockerbase/tomcat8
+saravak/tomcat8
 nginx:1.27.2
