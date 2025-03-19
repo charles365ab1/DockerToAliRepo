@@ -14,10 +14,10 @@
 #docker.elastic.co/kibana/kibana:8.17.0
 #neo4j:5.26.0-community-bullseye
 python:3.8
-redis:5.2.1
-scrapy:2.6.1
-mysql:5.7
-Flask:2.3.2
-java:1.8
-tomcat:8
+redis:6.2
+toru2220/scrapy
+oilrmutp57/mysql5.7
+gautambaghel/flask
+williamyeh/java8
+dockerbase/tomcat8
 nginx:1.27.2
