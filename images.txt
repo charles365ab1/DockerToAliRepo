@@ -16,7 +16,7 @@
 python:3.8
 redis:6.2
 toru2220/scrapy
-oilrmutp57/mysql5.7
+oilrmutp57/mysql5.7:1.1
 gautambaghel/flask
 williamyeh/java8
 dockerbase/tomcat8
